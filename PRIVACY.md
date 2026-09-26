@@ -64,4 +64,4 @@ repository's git log.
 
 ## Contact
 
-Questions: **llms.baar@gmail.com**
+Questions: **dev@jmhb.ch**
